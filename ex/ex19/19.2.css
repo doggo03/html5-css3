@@ -1,0 +1,25 @@
+@charset "UTF-8";
+   
+
+/*
+em htms é id =em CSSé # ( so pode haver elementos)
+em HTMS é classe = em Css é(pode  haver mis do que um)
+*/
+body{
+   font-family:Arial, Helvetica, sans-serif;
+   font-size: 16px;
+   color: black;
+}
+     
+h1{
+   font-family: Arial,
+
+
+font-family:Arial, Helvetica, sans-serif;
+   font-size: 10px;   
+}
+
+h2{
+  color: blue;
+}
+
